@@ -1,0 +1,11 @@
+img:hover
+		{
+			width:  500px;
+			height:  500px;
+		}
+		a:hover
+		{
+			background-color: black;
+			color: white;
+			font-size: 30px;
+		}	
